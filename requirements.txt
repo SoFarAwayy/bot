@@ -1,0 +1,7 @@
+discord == "2.6.0"
+json == "2.0.9"
+random = "3.6.0"
+traceback = "3.5.0"
+datetime = "3.11.0"
+requests == "2.31.0"
+bs4 == "4.12.3"
